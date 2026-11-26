@@ -1,0 +1,6 @@
+{
+  "name": "SINARC — O seu radar de credenciamento",
+  "description": "Sistema Nacional Radar de Credenciamento para registradoras de contrato e ECVs nos DETRANs das 27 UFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
